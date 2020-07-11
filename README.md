@@ -1,16 +1,16 @@
-### Hi there 👋
+### Who is LumpKim?
+- 🐷 김재훈 / 대덕소프트웨어마이스터고등학교 3학년
 
-<!--
-**LumpKim/LumpKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’ll working on
+  - [Midas IT](http://www.midasit.com)(Nov 2020, *고졸특별채용전형 합격*)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning
+  - Backend Engineering with Java & Spring Boot
+  - Manage infrastructure(AWS, GCP, on-prem, etc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - [📓 Personal Tech Blog](https://blog.jaehoon.kim)
+  - [📧 me@jaehoon.kim](me@jaehoon.kim)
+
+- 📝 Favorite quotes!
+  > Don't compare yourself with anyone in this world. If you do so, you're insulting yourself. ***- Bill Gates***
