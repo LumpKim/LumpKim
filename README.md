@@ -1,6 +1,6 @@
 ### 🐷 Jaehoon Kim
 
-- 🔭 I work in the **Cloud Service & Web Operation Team** of [Midas IN](http://www.midasin.com)
+- 🔭 I work in the **DevOps Team** of [Midas IN](http://www.midasin.com)
 
 ### 🌱 I’m currently learning
   - Managing infrastructures(AWS, GCP, on-prem, etc)
