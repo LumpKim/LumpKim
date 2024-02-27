@@ -8,7 +8,10 @@
 
 ### 📮 Blog Posts
   - [AWS Cost Optimization Experience for Startup Engineers (Korean)](https://tech.inflab.com/20240227-finops-for-startup/)
-  - [How to improve CI time by up to 4.6x](https://tech.inflab.com/20231101-optimizing-ci-pipeline/)
+  - [How to improve CI time by up to 4.6x (Korean)](https://tech.inflab.com/20231101-optimizing-ci-pipeline/)
+
+### Youtube Sessions
+  - [High-Performance First-come-first-served reservation system: Building in 4 days using Golang | InfCon 2023](https://youtu.be/94d7VnN_tp4)
 
 ### 📫 How to reach me:
   - [📧 me@jaehoon.dev](me@jaehoon.dev)
