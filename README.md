@@ -7,5 +7,5 @@
   - Backend Engineering with Java & Spring Boot, and like Golang
 
 ### 📫 How to reach me:
-  - [📓 Personal Tech Blog](https://blog.jaehoon.kim)
   - [📧 me@jaehoon.dev](me@jaehoon.dev)
+  - [LinkedIn](www.linkedin.com/in/jaehoon-kim-2a9ba122b)
